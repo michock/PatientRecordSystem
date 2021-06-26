@@ -13,7 +13,9 @@ import java.util.List;
 public class DoctorService implements IDoctorService {
     @Override
     public List<Doctor> findAll() {
+        // DoctorService displays list of doctors
         return null;
+
     }
 
     @Override
